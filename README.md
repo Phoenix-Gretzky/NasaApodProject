@@ -2,7 +2,7 @@
 
 1. The NASA APOD API is up (working) AND the phone is connected to the internet When:
 The user arrives at the APOD page for the first time today Then: The page should display the
-image of Astronomy Picture of the Day along with the title and explanation, for that day
+image or video of Astronomy Picture of the Day along with the title and explanation, for that day
 2. The user has already seen the APOD page once AND the phone is not connected to
 the internet When: The user arrives at the APOD page on the same day Then: The page
 should display the image of Astronomy Picture of the Day along with the title and explanation,
