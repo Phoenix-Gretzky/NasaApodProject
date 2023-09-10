@@ -32,6 +32,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
+
         <WebView
             android:id="@+id/apod_videoview"
             android:layout_width="0dp"
